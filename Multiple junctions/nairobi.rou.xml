@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-04-24 13:07:59 by Eclipse SUMO netedit Version 1.21.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="DEFAULT_VEHTYPE" maxSpeed="13.89" vClass="bus" color="255,0,0,0"/>
+    <vType id="Delivery" vClass="truck"/>
+    <vType id="NGANYA" maxSpeed="13.89" vClass="bus" color="255,10,0,0"/>
+    <vType id="t_0"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <trip id="t_0" type="NGANYA" depart="0.00" from="693744690" to="1107995866#2"/>
+    <trip id="t_1" type="NGANYA" depart="0.00" color="255,0,32" from="1120654527#0" to="1107995866#2"/>
+    <flow id="f_0" type="NGANYA" begin="0.00" color="253,0,255" from="4730072#0" to="1305319779" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_1" type="NGANYA" begin="0.00" color="0,47,255" from="1151073357#4" to="693744690" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_2" type="NGANYA" begin="0.00" color="0,255,235" from="332240217" to="671416676" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_3" type="NGANYA" begin="0.00" color="17,255,76" from="4730072#0" to="-1221918486" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_4" type="NGANYA" begin="0.00" color="255,57,0" from="1112350625#3" to="4962801" via="CH 4730074#2 162144290#0 162144290#1" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_5" type="NGANYA" begin="0.00" color="200,0,255" from="1117240826" to="180750377" via="KR2 4730073#0 4741916#2" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_6" type="NGANYA" begin="0.00" color="255,179,0" from="4730072#0" to="4962801" via="4962695#0 162144290#0" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_7" type="t_0" begin="0.00" color="255,179,0" from="4730072#0" to="MOI19" end="3600.00" vehsPerHour="100"/>
+</routes>

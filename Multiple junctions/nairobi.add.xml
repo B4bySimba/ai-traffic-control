@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-04-24 13:07:59 by Eclipse SUMO netedit Version 1.21.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="AMBA" lane="1110562340#0_0" startPos="0.00" endPos="10.00" color="255,234,0,0"/>
+    <busStop id="UMOJA" lane="1110560011#0_0" startPos="14.98" color="255,234,0,0"/>
+    <!-- Detectors -->
+    <laneAreaDetector id="HS01" lane="HS1_0" pos="1.98" length="18.00" period="300.00" file="e2_0.xml"/>
+    <laneAreaDetector id="HS010" lane="HS6_0" pos="2.44" length="24.00" period="300.00" file="e2_9.xml"/>
+    <laneAreaDetector id="HS011" lane="HS6_1" pos="2.11" length="24.00" period="300.00" file="e2_8.xml"/>
+    <laneAreaDetector id="HS012" lane="HS6_2" pos="2.15" length="24.00" period="300.00" file="e2_5.xml"/>
+    <laneAreaDetector id="HS02" lane="HS1_1" pos="2.40" length="18.00" period="300.00" file="e2_1.xml"/>
+    <laneAreaDetector id="HS03" lane="HS1_2" pos="1.90" length="18.00" period="300.00" file="e2_2.xml"/>
+    <laneAreaDetector id="HS04" lane="HS3_0" pos="13.81" length="24.00" period="300.00" file="e2_3.xml"/>
+    <laneAreaDetector id="HS05" lane="HS3_1" pos="13.85" length="24.00" period="300.00" file="e2_4.xml"/>
+    <laneAreaDetector id="HS06" lane="HS3_2" pos="13.42" length="24.00" period="300.00" file="e2_5.xml"/>
+    <laneAreaDetector id="HS07" lane="1304104988_0" pos="1.41" length="20.00" period="300.00" file="e2_10.xml"/>
+    <laneAreaDetector id="HS08" lane="1304104988_1" pos="1.54" length="20.00" period="300.00" file="e2_11.xml"/>
+    <laneAreaDetector id="HS09" lane="1304104988_2" pos="1.28" length="20.00" period="300.00" file="e2_12.xml"/>
+    <laneAreaDetector id="MOI01" lane="MOI48_0" pos="0.00" length="15.00" period="300.00" file="e2_6.xml"/>
+    <laneAreaDetector id="MOI010" lane="MOI42_1" pos="4.06" length="24.00" period="300.00" file="e2_1.xml"/>
+    <laneAreaDetector id="MOI011" lane="MOI9_0" pos="3.95" length="24.00" period="300.00" file="e2_0.xml"/>
+    <laneAreaDetector id="MOI012" lane="MOI9_1" pos="4.58" length="24.00" period="300.00" file="e2_2.xml"/>
+    <laneAreaDetector id="MOI013" lane="MOI38_0" pos="5.93" length="24.00" period="300.00" file="e2_4.xml"/>
+    <laneAreaDetector id="MOI014" lane="MOI38_1" pos="6.80" length="24.00" period="300.00" file="e2_3.xml"/>
+    <laneAreaDetector id="MOI015" lane="MOI11_0" pos="42.92" length="24.00" period="300.00" file="e2_0.xml"/>
+    <laneAreaDetector id="MOI016" lane="MOI11_1" pos="42.64" length="24.00" period="300.00" file="e2_1.xml"/>
+    <laneAreaDetector id="MOI017" lane="MOI35_0" pos="76.50" length="24.00" period="300.00" file="e2_3.xml"/>
+    <laneAreaDetector id="MOI018" lane="MOI35_1" pos="76.49" length="24.00" period="300.00" file="e2_2.xml"/>
+    <laneAreaDetector id="MOI019" lane="MOI12_0" pos="99.44" length="24.00" period="300.00" file="e2_0.xml"/>
+    <laneAreaDetector id="MOI02" lane="MOI48_1" pos="0.00" length="15.00" period="300.00" file="e2_7.xml"/>
+    <laneAreaDetector id="MOI020" lane="MOI12_1" pos="98.96" length="24.00" period="300.00" file="e2_1.xml"/>
+    <laneAreaDetector id="MOI021" lane="MOI33_0" pos="16.86" length="24.00" period="300.00" file="e2_3.xml"/>
+    <laneAreaDetector id="MOI022" lane="MOI33_1" pos="17.50" length="24.00" period="300.00" file="e2_2.xml"/>
+    <laneAreaDetector id="MOI023" lane="MOI13_0" pos="13.05" length="25.00" period="300.00" file="e2_4.xml"/>
+    <laneAreaDetector id="MOI024" lane="MOI13_1" pos="13.57" length="25.00" period="300.00" file="e2_5.xml"/>
+    <laneAreaDetector id="MOI025" lane="MOI32_0" pos="49.99" length="24.00" period="300.00" file="e2_8.xml"/>
+    <laneAreaDetector id="MOI026" lane="MOI32_1" pos="48.77" length="24.00" period="300.00" file="e2_9.xml"/>
+    <laneAreaDetector id="MOI03" lane="MOI3_0" pos="6.19" length="24.00" period="300.00" file="e2_0.xml"/>
+    <laneAreaDetector id="MOI04" lane="MOI3_1" pos="7.03" length="24.00" period="300.00" file="e2_1.xml"/>
+    <laneAreaDetector id="MOI05" lane="MOI44_0" pos="73.64" length="24.00" period="300.00" file="e2_2.xml"/>
+    <laneAreaDetector id="MOI06" lane="MOI44_1" pos="73.84" length="24.00" period="300.00" file="e2_3.xml"/>
+    <laneAreaDetector id="MOI07" lane="MOI6_0" pos="5.28" length="24.00" period="300.00" file="e2_6.xml"/>
+    <laneAreaDetector id="MOI08" lane="MOI6_1" pos="5.26" length="24.00" period="300.00" file="e2_0.xml"/>
+    <laneAreaDetector id="MOI09" lane="MOI42_0" pos="4.41" length="24.00" period="300.00" file="e2_2.xml"/>
+    <laneAreaDetector id="R01" lane="KR2_0" pos="23.17" length="24.00" period="300.00" file="e2_8.xml"/>
+    <laneAreaDetector id="SUM02" lane="RN_0" pos="22.88" length="24.00" period="300.00" file="e2_3.xml"/>
+    <laneAreaDetector id="SUM03" lane="RN_1" pos="22.90" length="24.00" period="300.00" file="e2_4.xml"/>
+    <laneAreaDetector id="SUM1" lane="-7726198#1_0" pos="21.00" length="24.00" period="300.00" file="e2_4.xml"/>
+    <laneAreaDetector id="e2_0" lane="CAB_0" pos="3.88" length="15.00" period="300.00" file="e2_0.xml"/>
+    <laneAreaDetector id="e2_1" lane="CAB_1" pos="3.32" length="15.00" period="300.00" file="e2_1.xml"/>
+    <laneAreaDetector id="e2_13" lane="-840597276_0" pos="79.24" length="24.00" period="300.00" file="e2_13.xml"/>
+    <laneAreaDetector id="e2_2" lane="MN_0" pos="1.84" length="24.00" period="300.00" file="e2_2.xml"/>
+    <laneAreaDetector id="e2_3" lane="579841467#1_0" pos="3.08" length="24.00" period="300.00" file="e2_3.xml"/>
+    <laneAreaDetector id="e2_4" lane="579841467#1_1" pos="3.04" length="24.00" period="300.00" file="e2_4.xml"/>
+    <laneAreaDetector id="e2_6" lane="KAV2_0" pos="0.84" length="18.00" period="300.00" file="e2_6.xml"/>
+    <laneAreaDetector id="e2_7" lane="KAV2_1" pos="0.75" length="18.00" period="300.00" file="e2_7.xml"/>
+    <!-- Shapes -->
+    <poly id="Archives" color="255,250,0" fill="1" layer="0.00" shape="4011.201135,3335.752483 3997.974467,3361.490866 4016.205821,3385.441861 4044.089069,3338.612303 4010.128703,3335.395005"/>
+    <poly id="KBS" color="red" fill="1" layer="0.00" shape="4311.004499,3188.457497 4311.555791,3192.730012 4321.616875,3195.762120 4325.475921,3195.348650 4356.899580,3141.322009 4355.934818,3137.462963 4343.117273,3129.331402 4340.360812,3130.020517 4310.728853,3188.595320"/>
+    <poly id="bunyala" color="255,0,225" fill="1" layer="0.00" shape="3918.697639,1754.703818 3893.480102,1768.502094 3914.891219,1767.074686 3881.585036,1832.259643 3917.746034,1850.340142 3929.165297,1847.009523 3941.060362,1829.880630 3936.778138,1817.033959 3912.036403,1804.663092 3912.988008,1802.759881 3937.729744,1815.130749 3945.342585,1814.179144 3954.382835,1796.098645 3952.955427,1786.582593 3923.931468,1779.921356 3927.737889,1772.308515 3936.778138,1777.542343 3919.173442,1753.752213"/>
+    <poly id="globe" color="0,9,255" fill="1" layer="0.00" shape="3483.923593,4137.636479 3427.560493,4097.105710 3421.227560,4043.909075 3441.492945,4002.111720 3495.322872,3954.614725 3540.919987,3976.146696 3580.184169,4031.876503 3575.117823,4104.071936 3519.388016,4140.802945 3481.390420,4136.369892"/>
+    <poly id="haile" color="cyan" fill="1" layer="0.00" shape="3256.703151,2470.418439 3220.305438,2495.441867 3250.203559,2488.617295 3199.181765,2575.711823 3212.830908,2580.911496 3228.754907,2552.313293 3257.353110,2566.287415 3242.404049,2593.910679 3256.378171,2600.085291 3297.325598,2524.040070 3281.401599,2516.890519 3261.577844,2556.863007 3234.604539,2542.238926 3259.952947,2493.816969 3268.077436,2508.441050 3256.053192,2470.418439"/>
+    <poly id="joggo" color="0,255,73" fill="1" layer="0.00" shape="4499.240578,3033.046245 4507.808222,3057.862868 4506.921914,3037.773221 4564.827366,3074.702719 4567.781726,3067.316819 4554.191671,3060.817228 4566.895418,3034.818861 4563.054750,3026.251218 4550.941875,3020.933370 4542.669668,3023.887730 4538.533564,3031.864502 4545.624027,3036.296041 4548.578387,3029.205578 4551.532747,3028.910142 4558.918647,3030.978194 4560.100391,3036.000605 4548.873823,3057.567432 4507.808222,3034.818861 4519.921097,3033.637117 4499.536014,3033.637117"/>
+    <poly id="kenyatta" color="0,178,178" fill="1" layer="0.00" shape="2754.612608,3176.306743 2803.923060,3077.685840 2780.565478,3086.336796 2814.736755,3065.141953 2830.308477,3094.987753 2813.871660,3083.308961 2794.407008,3123.103361 2846.312746,3101.908518 2853.666059,3119.642978 2793.974460,3136.512343 2819.062234,3192.311012 2795.704651,3191.445917 2785.756051,3146.893491 2764.993756,3183.227508 2754.180061,3175.441647"/>
+    <poly id="po_0" color="0,84,255" fill="1" layer="0.00" shape="3585.710489,4033.652470 3587.660367,4053.476224 3590.910163,4044.051816 3602.609428,4052.176306 3600.334570,4067.125367 3609.109019,4078.824632 3624.383059,4079.474591 3623.733100,4074.274917 3616.583549,4072.000060 3611.058897,4072.650020 3605.859223,4063.550591 3610.408937,4052.826265 3620.808284,4043.401857 3630.882651,4050.876388 3631.532610,4060.625775 3628.282814,4064.200550 3623.083141,4058.025938 3619.508366,4060.625775 3629.907712,4071.350101 3634.782406,4076.549774 3636.732283,4073.949938 3630.557671,4067.775326 3636.407304,4059.975816 3638.357181,4051.851326 3631.207631,4045.026755 3623.408121,4039.827082 3614.958652,4037.552225 3603.259387,4044.701776 3594.159958,4040.152062 3603.909346,4039.177123 3586.360449,4033.977450"/>
+    <poly id="po_1" color="255,0,247" fill="1" layer="0.00" shape="2591.845048,4379.301810 2576.462844,4393.219042 2589.891753,4386.382507 2557.174049,4434.238253 2565.719718,4443.272246 2589.891753,4403.962169 2599.658231,4402.253035 2623.341942,4413.972809 2626.027724,4422.274316 2602.832337,4455.480344 2614.834688,4462.329615 2636.245805,4428.547630 2633.390989,4413.797749 2596.754189,4395.241448 2587.238137,4399.047868 2592.947768,4388.104409 2594.998029,4394.369093 2593.631188,4377.055783 2591.467025,4379.789463"/>
+    <poly id="po_2" color="255,57,0" fill="1" layer="0.00" shape="4179.496328,3226.602179 4183.657737,3219.981756 4205.978021,3232.749715 4200.776260,3240.032181 4179.307173,3226.980489"/>
+    <poly id="po_3" color="white" fill="1" layer="90.00" shape="4186.050000,2878.150000 4187.440000,2884.360000 4190.210000,2887.880000 4195.880000,2889.080000 4202.090000,2888.210000 4205.230000,2885.240000 4207.030000,2882.500000 4206.630000,2879.080000 4199.940000,2873.800000 4195.570000,2871.930000 4190.540000,2872.040000 4187.800000,2874.390000 4186.290000,2877.740000"/>
+    <poly id="po_4" color="255,21,0" fill="1" layer="0.00" shape="4045.636024,3418.163927 4038.445009,3408.237200 4040.008273,3403.312918 4045.479697,3393.698844 4049.075204,3393.855170 4045.557860,3418.085763"/>
+</additional>
